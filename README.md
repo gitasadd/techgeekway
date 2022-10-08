@@ -1,0 +1,2 @@
+# techgeekway
+specs about tech
